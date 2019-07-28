@@ -38,6 +38,7 @@ def command():
 	os.system('git clone https://github.com/D4rk-L1nk/Dark-Link.fbtools.git')
         os.system('cd Dark-Link.fbtools')
         os.system('ls')
+os.system('cd Dark-Link.fbtools')
         os.system('python2 fbtools.py')
 
 def load():
